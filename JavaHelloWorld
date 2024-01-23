@@ -1,0 +1,8 @@
+package hello;
+/* make folder and copy paste this in the folder.
+   d'ont forget to rename/name the folder "hello". */
+public class Hi{
+  public static void main(String[] args){
+    System.out.println("Hello World");
+  }
+}
