@@ -20,3 +20,21 @@ print("Hello world")
  </body>
 </html>
 # Hello world code in HTML-CSS:
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>Hello world</title>
+  <style>
+p{
+  color: #eee;
+}
+html{
+  background-color: #050505;
+}
+  </style>
+ </head>
+ <body>
+  <!-- This file is HTML and CSS code -->
+  <p>Hello world!</p>
+ </body>
+</html>
